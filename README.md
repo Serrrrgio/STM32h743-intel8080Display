@@ -128,3 +128,5 @@ HAL_MPU_Enable(MPU_PRIVILEGED_DEFAULT);
   }
 
 Прошиваем и радуемся результату
+
+![1642422428162](https://user-images.githubusercontent.com/32983504/150679070-c370ea93-9ef3-41d3-bb0b-594840c29b45.jpg)
